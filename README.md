@@ -8,8 +8,11 @@ Here is a screenshot of the complete UI
 
 ### Useful Materials
 [Jetpack Compose tutorial](https://developer.android.com/jetpack/compose/tutorial)
+
 [Jetpack Compose Pathway](https://developer.android.com/courses/pathways/compose)
+
 [Documentation](https://developer.android.com/jetpack/compose/documentation)
+
 [Become a Composer](https://www.droidcon.com/media-detail?video=412304809)
 
 
