@@ -78,12 +78,6 @@ fun WeatherItem(weather: Weather) {
     }
 }
 
-//@Preview(showBackground = true)
-@Composable
-fun WeatherItemPreview() {
-    WeatherItem(weather = Weather("Today", "28"))
-}
-
 
 @Preview
 @Composable
